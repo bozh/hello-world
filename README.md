@@ -1,2 +1,3 @@
 # hello-world
-For exercise.
+
+It's 2016-10-31.
